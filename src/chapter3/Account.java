@@ -2,7 +2,7 @@ package chapter3;
 
 import java.util.Date;
 
-class Account {
+public class Account {
     public String customer;
     public int account;
     public String agency;
